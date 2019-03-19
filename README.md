@@ -20,4 +20,4 @@ The new move base method for turtlebot3.
   * nb1_move_base.launch.xml
   
 ## 執行:  
-使用時，直接launch turtelbot3_navigation turtlebot3_navigation_simulation 既可。
+使用時，直接 roslaunch turtelbot3_navigation turtlebot3_navigation_simulation 既可。
